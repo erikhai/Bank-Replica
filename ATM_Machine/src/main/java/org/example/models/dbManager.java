@@ -78,9 +78,7 @@ public class dbManager {
         userAccount adminUser = new userAccount(1, "Admin", "Admin", null, null, null, true, 0);
         userDao.createIfNotExists(adminUser);
 
-        //scroll defaultScroll = new scroll("Scroll1", "10100101111110000110\n1000101111100001\n1010", adminUser);
-        //defaultScroll.setId(1);
-        //scrollDao.createIfNotExists(defaultScroll);
+     
     }
 
 
