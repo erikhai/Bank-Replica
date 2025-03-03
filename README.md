@@ -23,7 +23,7 @@ This system stores all account details in a local database, so the accounts can 
 ### Steps to Run:
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/TermiCash.git
+   git clone https://github.com/erikhai/TermiCash.git
    cd TermiCash
    ```
 2. Build the project using Gradle:
