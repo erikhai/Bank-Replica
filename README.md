@@ -1,4 +1,4 @@
-# ATM-Replica
+# TermiCash
 
 ## What is this project about?
 This entire project reflects the interactions people can have in a bank. Here, you can either login as an admin or a customer or create a new account with us. 
